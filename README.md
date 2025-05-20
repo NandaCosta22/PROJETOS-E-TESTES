@@ -1,2 +1,2 @@
 # PROJETOS
-Projetos de iniciante em Python
+Projetos e Ideias
